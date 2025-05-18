@@ -1,6 +1,8 @@
 # Defensor do Consumidor AI 🛡️
 
 **Seu advogado digital especializado em direitos do consumidor brasileiro**
+![Tela inicial do Defensor do Consumidor AI](images/AI.jpg)
+
 
 ## O Poder da IA a Serviço da Justiça Cotidiana
 
