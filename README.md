@@ -1,4 +1,4 @@
-# Defensor do Consumidor AI 🛡️
+# Assistante de Defensa ao Consumidor 🛡️
 
 **Seu advogado digital especializado em direitos do consumidor brasileiro**
 
