@@ -1,4 +1,4 @@
-# Defensor do Consumidor AI 🛡️
+# AI Defensora do Consumidor 🛡️
 
 **Seu advogado digital especializado em direitos do consumidor brasileiro**
 ![Tela inicial do Defensor do Consumidor AI](images/AI.jpg)
@@ -6,7 +6,7 @@
 
 ## O Poder da IA a Serviço da Justiça Cotidiana
 
-O Defensor do Consumidor AI transforma a experiência de resolver problemas de consumo, democratizando o acesso à justiça através de tecnologia de ponta. Desenvolvido com Python, Streamlit, Gemini e ADK da Agentes, nosso sistema não apenas orienta consumidores sobre seus direitos - ele **investiga ativamente** padrões de problemas para fortalecer sua defesa.
+A AI Defensora do Consumidor transforma a experiência de resolver problemas de consumo, democratizando o acesso à justiça através de tecnologia de ponta. Desenvolvido com Python, Streamlit, Gemini e ADK da Agentes, nosso sistema não apenas orienta consumidores sobre seus direitos - ele **investiga ativamente** padrões de problemas para fortalecer sua defesa.
 
 ### Diferenciais Revolucionários:
 
