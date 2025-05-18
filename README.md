@@ -1,6 +1,12 @@
 # AI Defensora do Consumidor 🛡️
 
 **Seu advogado digital especializado em direitos do consumidor brasileiro**
+
+Teste AQUI:
+
+https://imersaoaluraassistenteconsumidor-hbbcjx4s6pyy4mabcphtap.streamlit.app/
+
+
 ![Tela inicial do Defensor do Consumidor AI](images/AI.jpg)
 
 
