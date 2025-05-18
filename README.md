@@ -75,5 +75,8 @@ Veja abaixo uma prévia da interface do assistente:
 ![Tela inicial do Defensor do Consumidor AI](images/tela_01.png)
 
 
+![Tela inicial do Defensor do Consumidor AI](images/tela_02.png)
+
+
 
 
