@@ -1,4 +1,4 @@
-# Assistante de Defensa ao Consumidor 🛡️
+# Assistante de Defesa ao Consumidor 🛡️
 
 **Seu advogado digital especializado em direitos do consumidor brasileiro**
 
