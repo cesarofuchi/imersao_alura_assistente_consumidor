@@ -20,7 +20,7 @@ A AI Defensora do Consumidor transforma a experiência de resolver problemas de 
 
 ### Impacto Social:
 
-O Defensor do Consumidor AI equilibra a balança entre empresas e consumidores, especialmente beneficiando aqueles sem acesso a assessoria jurídica tradicional. Ao identificar problemas recorrentes, contribui para um mercado mais transparente e responsável.
+A AI Defensora do Consumidor equilibra a balança entre empresas e consumidores, especialmente beneficiando aqueles sem acesso a assessoria jurídica tradicional. Ao identificar problemas recorrentes, contribui para um mercado mais transparente e responsável.
 
 ---
 
@@ -42,6 +42,13 @@ O Defensor do Consumidor AI equilibra a balança entre empresas e consumidores, 
 
 https://www.python.org/downloads/
 
+
+Crie um virtual environment 
+```
+python -m venv .venv
+source .venv/bin/activate  # Linux/macOS
+.venv\Scripts\activate     # Windows
+```
 
 Instale os pacotes python necessários que estão no arquivo:
 
